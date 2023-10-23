@@ -6,8 +6,8 @@
 - 👨‍💻 Currently working on [Mooquakes 3D Visualizator](https://github.com/ColoBonoris/moonquakes2)
 - 🌱 Currently learning **Svelte, machine learning, data conversion, cybersecurity and maths**
 - 🔭 I'm looking to collaborate on **Chaos simulations (but anything related w natural sciences has got my attention!)**
-- 👨‍🎨 Look at my work and skills on my resume-portfolio [nicolasbonoris.com.ar](nicolasbonoris.com.ar)
-- 📡 Reach me at [boonrisnicolas@gmail.com](boonrisnicolas@gmail.com)
+- 👨‍🎨 Look at my work and skills on my resume-portfolio [nicolasbonoris.com.ar](nicobonoris.tech)
+- 📡 Reach me at [boonrisnicolas@gmail.com](bonorisnicolas@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
