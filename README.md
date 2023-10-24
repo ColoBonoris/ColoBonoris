@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Nicolás</h1>
-<h2 align="center">Software developer and an everything-related-with-science enthusiast! 🌠</h3>
+<h2 align="center">Software developer and an everything-related-with-science enthusiast 🌠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colobonoris&label=Profile%20views&color=9ecf8c&style=flat" alt="colobonoris" /> </p>
 
