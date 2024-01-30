@@ -5,10 +5,10 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍💻 Currently working on [Mooquakes 3D Visualizator](https://github.com/ColoBonoris/moonquakes2)
+- 👨‍💻 Currently working on [Mooquakes 3D Visualizer](https://github.com/ColoBonoris/moonquakes2)
 - 🌱 Currently learning **Svelte, machine learning, data conversion, cybersecurity and maths**
 - 🔭 I'm looking to collaborate on **Chaos simulations (but anything related w natural sciences has got my attention!)**
-- 👨‍🎨 Look at my work and skills on my resume-portfolio [nicobonoris.tech](nicobonoris.tech)
+- 👨‍🎨 Look at my work and skills on my resume-portfolio [nicobonoris.netlify.app](https://nicobonoris.netlify.app)
 - 📡 Reach me at [bonorisnicolas@gmail.com](bonorisnicolas@gmail.com)
 
 #
