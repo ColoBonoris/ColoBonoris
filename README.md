@@ -6,8 +6,8 @@
 <h3 align="left">About me:</h3>
 
 - 👨‍💻 Currently working on [Mooquakes 3D Visualizer](https://github.com/ColoBonoris/moonquakes2)
-- 🌱 Currently learning **Svelte, machine learning, data conversion, cybersecurity and maths**
-- 🔭 I'm looking to collaborate on anything so hit me up!
+- 🌱 Currently learning **AWS and Docker**
+- 🔭 Always open to new projects and ideas, hit me up on anythong you might need!
 - 👨‍🎨 Look at my work and skills on my resume-portfolio [nicobonoris.netlify.app](https://nicobonoris.netlify.app)
 - 📡 Reach me at [bonorisnicolas@gmail.com](bonorisnicolas@gmail.com)
 
